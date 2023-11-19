@@ -96,6 +96,12 @@
     .logo {
         font-size: 25px;
     }
+
+    .jakartha {
+        letter-spacing: 45px;
+        margin-left: 50px;
+        
+    }
 }
 
 
@@ -104,6 +110,12 @@
 
 
 @media screen and (max-width:530px) {
+
+
+nav ul li {
+    padding-right: 15px;
+}
+
     ul li a {
         font-size: 25px;
         justify-content: center;
@@ -187,6 +199,13 @@
         margin: 0 30px;
     }
 
+    .jakartha {
+        margin-left: 40px;
+    }
+    nav ul li {
+        padding-right: 20px;
+    }
+
 }
 
 @media screen and (max-width:330px) {
@@ -220,3 +239,4 @@
 
 
 }
+
