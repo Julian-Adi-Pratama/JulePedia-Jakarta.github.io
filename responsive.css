@@ -208,6 +208,19 @@ nav ul li {
 
 }
 
+
+@media screen and (max-width:415px) {
+    .logo {
+        letter-spacing: 5px;
+    }
+
+    .jakartha {
+        margin-left: 25px;
+    }
+
+}
+
+
 @media screen and (max-width:330px) {
     .jakartha {
         letter-spacing: 20px;
