@@ -11,7 +11,7 @@
     nav img {
         width: 100%;
     }
-    
+
 
     footer aside img {
         width: 60%;
@@ -21,9 +21,9 @@
     ul li a {
         font-size: 40px;
         justify-content: center;
-    
+
     }
-    
+
     .aboutmee {
         font-size: 40px;
     }
@@ -34,12 +34,13 @@
 
 
 }
+
 @media screen and (max-width:860px) {
     .jakartha {
         letter-spacing: 80px;
     }
 
-    footer aside ul li  {
+    footer aside ul li {
         padding-top: 10px;
 
     }
@@ -140,26 +141,82 @@
 
 @media screen and (max-width:476px) {
 
-.logo {
-    font-size: 20px;
+    .logo {
+        font-size: 20px;
+
+    }
+
+    .jakartha {
+        letter-spacing: 40px;
+    }
+
+    ul li a {
+        font-size: 20px;
+        justify-content: center;
+    }
+
+    .judul {
+        font-size: 35px;
+    }
+
+    .biyo {
+        font-size: 15px;
+    }
 
 }
 
-.jakartha {
-    letter-spacing: 40px;
+@media screen and (max-width:445px) {
+    .logo {
+        font-size: 17px;
+    }
+
+    .jakartha {
+        margin-left: 60px;
+    }
+
+    .sejarah {
+        margin: 20px 30px;
+    }
+
+    .geografis {
+        margin: 40px 30px;
+
+    }
+
+    .wisata {
+        margin: 0 30px;
+    }
+
 }
 
-ul li a {
-    font-size: 20px;
-    justify-content: center;
-}
+@media screen and (max-width:330px) {
+    .jakartha {
+        letter-spacing: 20px;
+        font-size: 20px;
+        margin-left: 30px;
+    }
 
-.judul {
-    font-size: 35px;
-}
+    .logo {
+        letter-spacing: 5px;
+    }
 
-.biyo {
-    font-size: 15px;
-}
+    nav ul li {
+        padding-right: 15px;
+
+    }
+
+    ul li a {
+        font-size: 17px;
+    }
+
+    .judul {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 17px;
+    }
+
+
 
 }

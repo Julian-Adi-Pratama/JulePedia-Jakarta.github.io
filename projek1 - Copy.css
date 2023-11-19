@@ -8,17 +8,17 @@
 .jakartha {
     font-size: 50px;
     font-family: 'Rancho', cursive;
-     color: brown;
-     letter-spacing: 150px;
+    color: brown;
+    letter-spacing: 150px;
     margin-left: 150px;
 }
 
 .logo {
 
-display: flex;
-justify-content: left;
-background-color: black;
-font-family: 'Pixelify Sans', sans-serif;
+    display: flex;
+    justify-content: left;
+    background-color: black;
+    font-family: 'Pixelify Sans', sans-serif;
 }
 
 .logo a {
@@ -31,7 +31,7 @@ font-family: 'Pixelify Sans', sans-serif;
     transition: all .2s ease-in-out;
 }
 
-nav h1  {
+nav h1 {
     font-size: 40px;
     display: flex;
     justify-content: center;
@@ -41,17 +41,17 @@ nav h1  {
 }
 
 nav img {
-    width: 100%; 
+    width: 100%;
     border-radius: 50px;
-    
-   
-    
+
+
+
 }
 
 .nav {
     display: flex;
     justify-content: center;
-    
+
 
 }
 
@@ -84,16 +84,16 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     letter-spacing: 10px;
-    
+
 }
 
- .sejarah {
+.sejarah {
     margin-right: 100px;
     border: solid 3px white;
     border-radius: 30px;
     box-shadow: 2px 1px 10px gray;
     margin-top: 30px;
-    margin-right: 100px; 
+    margin-right: 100px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -138,7 +138,7 @@ main img {
 }
 
 
-footer aside  {
+footer aside {
     border: solid 3px white;
     border-radius: 30px;
     box-shadow: 2px 1px 10px gray;
@@ -147,8 +147,8 @@ footer aside  {
     justify-content: space-between;
     background-color: rgb(255, 255, 255);
     flex-direction: column;
-    
-    
+
+
 
 }
 
@@ -157,7 +157,7 @@ footer aside img {
     width: 50%;
     height: 100%;
     border-radius: 50px;
-    
+
 }
 
 
@@ -165,7 +165,7 @@ footer aside img {
 footer aside ul li {
 
     padding-top: 30px;
-    
+
 }
 
 .ig {
@@ -173,7 +173,7 @@ footer aside ul li {
     width: 10%;
     height: auto;
     display: flex;
-    justify-content: space-between;   
+    justify-content: space-between;
 }
 
 .ig a {
@@ -217,5 +217,5 @@ h6 a {
 h6 a:hover {
     color: red;
     transition: .2s ease-in;
-  
+
 }
